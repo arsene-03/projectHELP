@@ -1,0 +1,33 @@
+마리아DB
+root 계정
+Help1006!@
+---------------------------------
+마리아DB
+Help DB 계정
+HelpDB
+Help1006!@
+---------------------------------
+마리아DB
+admin 계정
+admin
+dbswns03
+---------------------------------
+원격 계정
+ubuntu - root
+dbswns03
+
+
+----------------------------------
+---------------------------------
+apache-tomcat-8.5.72.tar-
+cd /server/tomcat/bin
+
+./startup.sh
+./shutdown.sh
+-----------------------------
+원격 ip
+127.0.0.1:8888
+HelpAPI-0.0.1-SNAPSHOT.war
+
+톰캣 관리
+arsene/ arsenal
